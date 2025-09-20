@@ -10,7 +10,7 @@ A Python-based password generator and file encryptor.
 ## Installation
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/cccrypt.git
+   git clone https://github.com/kernval/cccrypt.git
    ```
 2. Install dependencies
    ```bash
